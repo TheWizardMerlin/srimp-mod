@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "srimp:srimp_item"
+    }
+  ],
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

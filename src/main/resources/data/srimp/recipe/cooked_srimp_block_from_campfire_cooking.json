@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "srimp:srimp_block"
+  },
+  "result": {
+    "id": "srimp:cooked_srimp_block"
+  },
+  "experience": 0.2,
+  "cookingtime": 600
+}

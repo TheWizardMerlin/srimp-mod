@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "srimp:cooked_srimp"
+  },
+  "result": {
+    "id": "srimp:cooked_cooked_srimp"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

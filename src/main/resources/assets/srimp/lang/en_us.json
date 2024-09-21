@@ -1,0 +1,18 @@
+{
+  "item.srimp.srimp_item": "Srimp",
+  "item.srimp.cooked_srimp": "Cooked Srimp",
+  "item.srimp.cooked_cooked_srimp": "Cooked Cooked Srimp",
+
+  "block.srimp.srimp_block": "Block of Srimp",
+  "block.srimp.cooked_srimp_block": "Cooked Block of Srimp",
+  "block.srimp.cooked_cooked_srimp_block": "Cooked Block of Cooked Srimp",
+
+  "itemgroup.srimp.srimp_items": "Srimp Items",
+
+  "tooltip.srimp.srimp_item": "§8just a friendly little guy!§r",
+  "tooltip.srimp.srimp_block": "§8just a buncha friendly little guys!§r",
+  "tooltip.srimp.cooked_srimp": "§4what have you done.§r",
+  "tooltip.srimp.cooked_srimp_block": "§4what have you done to them.§r",
+  "tooltip.srimp.cooked_cooked_srimp": "§4do you feel shame for your actions?§r",
+  "tooltip.srimp.cooked_cooked_srimp_block": "this smelts 9 stacks in a furnace btw! very helpful!"
+}

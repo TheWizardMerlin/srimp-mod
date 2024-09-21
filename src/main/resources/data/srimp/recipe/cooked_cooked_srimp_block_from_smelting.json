@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "srimp:cooked_srimp_block"
+  },
+  "result": {
+    "id": "srimp:cooked_cooked_srimp_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}
