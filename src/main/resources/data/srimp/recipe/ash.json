@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "srimp:cooked_cooked_srimp"
+  },
+  "result": {
+    "id": "srimp:ash"
+  },
+  "experience": 0,
+  "cookingtime": 400
+}

@@ -18,11 +18,45 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
 
                         entries.add(ModItems.SRIMP_ITEM);
+                        entries.add(ModItems.COOKED_SRIMP);
+                        entries.add(ModItems.COOKED_COOKED_SRIMP);
+                        entries.add(ModItems.ASH);
+                        entries.add(ModItems.SRIMP_UNFRIED_RICE);
+                        entries.add(ModItems.SRIMP_FRIED_RICE);
+
+
                         entries.add(ModBlocks.SRIMP_BLOCK);
                         entries.add(ModBlocks.COOKED_SRIMP_BLOCK);
                         entries.add(ModBlocks.COOKED_COOKED_SRIMP_BLOCK);
-                        entries.add(ModItems.COOKED_SRIMP);
-                        entries.add(ModItems.COOKED_COOKED_SRIMP);
+
+
+
+                        entries.add(ModBlocks.SRIMP_STAIRS);
+                        entries.add(ModBlocks.SRIMP_SLAB);
+                        entries.add(ModBlocks.SRIMP_DOOR);
+                        entries.add(ModBlocks.SRIMP_TRAPDOOR);
+                        entries.add(ModBlocks.SRIMP_FENCE);
+                        entries.add(ModBlocks.SRIMP_FENCE_GATE);
+                        entries.add(ModBlocks.SRIMP_WALL);
+                        entries.add(ModBlocks.SRIMP_PRESSURE_PLATE);
+                        entries.add(ModBlocks.SRIMP_BUTTON);
+
+                        entries.add(ModBlocks.SRIMP_LAMP);
+
+                        entries.add(ModItems.SRIMP_SWORD);
+                        entries.add(ModItems.SRIMP_PICKAXE);
+                        entries.add(ModItems.SRIMP_SHOVEL);
+                        entries.add(ModItems.SRIMP_AXE);
+                        entries.add(ModItems.SRIMP_HOE);
+
+                        entries.add(ModItems.SRIMP_HAMMER_TEST);
+
+                        entries.add(ModItems.SRIMP_HELMET);
+                        entries.add(ModItems.SRIMP_CHESTPLATE);
+                        entries.add(ModItems.SRIMP_LEGGINGS);
+                        entries.add(ModItems.SRIMP_BOOTS);
+
+                        entries.add(ModItems.SRIMP_SPAWN_EGG);
 
                     }).build());
 

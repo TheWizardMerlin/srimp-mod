@@ -1,0 +1,52 @@
+{
+  "srimp_ambient": {
+    "subtitle": "sounds.srimp.srimp_ambient",
+    "sounds": [
+      {
+        "name": "srimp:srimp_ambient1",
+        "weight": 20
+      },
+      {
+        "name": "srimp:srimp_ambient2",
+        "weight": 20
+      },
+      {
+        "name": "srimp:srimp_ambient3",
+        "weight": 20
+      },
+      {
+        "name": "srimp:srimp_ambient4",
+        "weight": 20
+      },
+      {
+        "name": "srimp:srimp_ambient5",
+        "weight": 20
+      },
+      {
+        "name": "srimp:srimp_ambient_rare",
+        "weight": 1
+      }
+    ]
+  },
+  "srimp_hurt": {
+    "subtitle": "sounds.srimp.srimp_hurt",
+    "sounds": [
+        "srimp:srimp_hurt1"
+    ]
+  },
+  "srimp_death": {
+    "subtitle": "sounds.srimp.srimp_death",
+    "sounds": [
+      {
+        "name": "srimp:srimp_death1",
+        "weight": 1
+      },
+      {
+        "name": "srimp:srimp_death2",
+        "weight": 1
+      }
+    ]
+  }
+}
+
+

@@ -21,6 +21,22 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.COOKED_COOKED_SRIMP_BLOCK);
 
 
+        getOrCreateTagBuilder(BlockTags.FENCES).add(ModBlocks.SRIMP_FENCE);
+        getOrCreateTagBuilder(BlockTags.FENCE_GATES).add(ModBlocks.SRIMP_FENCE_GATE);
+        getOrCreateTagBuilder(BlockTags.WALLS).add(ModBlocks.SRIMP_WALL);
+
+        getOrCreateTagBuilder(BlockTags.DOORS).add(ModBlocks.SRIMP_DOOR);
+        getOrCreateTagBuilder(BlockTags.TRAPDOORS).add(ModBlocks.SRIMP_TRAPDOOR);
+
+        getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
+                .add(ModBlocks.COOKED_COOKED_SRIMP_BLOCK);
+
+        getOrCreateTagBuilder(ModTags.Blocks.NEEDS_SRIMP_TOOL)
+                .addTag(BlockTags.NEEDS_DIAMOND_TOOL);
+
+
+
+
 
 
 

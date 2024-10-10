@@ -9,6 +9,9 @@ import srimp.srimp.Srimp;
 
 public class ModTags {
     public static class Blocks {
+        public static final TagKey<Block> NEEDS_SRIMP_TOOL = createTag("needs_srimp_tool");
+        public static final TagKey<Block> INCORRECT_FOR_SRIMP_TOOL = createTag("incorrect_for_srimp_tool");
+
         private static TagKey<Block> createTag(String name) {
             return TagKey.of(RegistryKeys.BLOCK, Identifier.of(Srimp.MOD_ID, name));
 

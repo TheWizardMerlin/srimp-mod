@@ -2,10 +2,47 @@
   "item.srimp.srimp_item": "Srimp",
   "item.srimp.cooked_srimp": "Cooked Srimp",
   "item.srimp.cooked_cooked_srimp": "Cooked Cooked Srimp",
+  "item.srimp.srimp_fried_rice": "Srimp Fried Rice",
+  "item.srimp.ash": "Ash",
+  "item.srimp.srimp_alloy": "Srimp Alloy",
+  "item.srimp.srimpium": "Pure Srimpium",
+  "item.srimp.srimp_unfried_rice": "Srimp Unfried Rice",
+
+  "item.srimp.srimp_helmet": "Srimp Hat",
+  "item.srimp.srimp_chestplate": "Srimp Shirt",
+  "item.srimp.srimp_leggings": "Srimp Pants",
+  "item.srimp.srimp_boots": "Srimp Shoes",
+
+  "item.srimp.srimp_spawn_egg": "Srimp Spawn Egg",
+
+
+  "entity.srimp.srimp_entity": "Srimp",
+
+
+
+  "item.srimp.srimp_sword": "Srimp Sword",
+  "item.srimp.srimp_pickaxe": "Srimp Pickaxe",
+  "item.srimp.srimp_shovel": "srimp shobvel",
+  "item.srimp.srimp_axe": "Srimp Axe",
+  "item.srimp.srimp_hoe": "Srimp gardening tool",
+
+  "item.srimp.srimp_hammer_test": "Srimp Hammer",
 
   "block.srimp.srimp_block": "Block of Srimp",
   "block.srimp.cooked_srimp_block": "Cooked Block of Srimp",
   "block.srimp.cooked_cooked_srimp_block": "Cooked Block of Cooked Srimp",
+  "block.srimp.srimp_lamp": "Srimp Lamp (manual)",
+
+  "block.srimp.srimp_stairs": "Srimp Stairs",
+  "block.srimp.srimp_slab": "Srimp Slab",
+  "block.srimp.srimp_door": "Srimp Door",
+  "block.srimp.srimp_trapdoor": "Srimp Trapdoor",
+  "block.srimp.srimp_button": "Srimp Button",
+  "block.srimp.srimp_pressure_plate": "Srimp Pressure Plate",
+  "block.srimp.srimp_fence": "Srimp Fence",
+  "block.srimp.srimp_fence_gate": "Srimp Fence Gate",
+  "block.srimp.srimp_wall": "Srimp Wall",
+
 
   "itemgroup.srimp.srimp_items": "Srimp Items",
 
@@ -14,5 +51,14 @@
   "tooltip.srimp.cooked_srimp": "§4what have you done.§r",
   "tooltip.srimp.cooked_srimp_block": "§4what have you done to them.§r",
   "tooltip.srimp.cooked_cooked_srimp": "§4do you feel shame for your actions?§r",
-  "tooltip.srimp.cooked_cooked_srimp_block": "this smelts 9 stacks in a furnace btw! very helpful!"
+  "tooltip.srimp.cooked_cooked_srimp_block": "§8this smelts 9 stacks in a furnace btw! very helpful!§r",
+  "tooltip.srimp.ash": "§8what was this supposed to be again?§r",
+  "tooltip.srimp.srimp_fried_rice": "§8you're telling me... a srimp fried this rice?§r",
+
+  "tooltip.srimp.srimp_hammer_test": "§8VERY TEMPORARY cause i straight up copied the code§r",
+
+
+  "sounds.srimp.srimp_ambient": "Srimp srimps",
+  "sounds.srimp.srimp_hurt": "Srimp hurts",
+  "sounds.srimp.srimp_death": "monster."
 }
