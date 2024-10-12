@@ -17,7 +17,9 @@ import net.minecraft.loot.context.LootContextParameterSet;
 import net.minecraft.nbt.NbtCompound;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.registry.RegistryKey;
+import net.minecraft.sound.SoundCategory;
 import net.minecraft.sound.SoundEvent;
+import net.minecraft.sound.SoundEvents;
 import net.minecraft.text.Text;
 import net.minecraft.world.World;
 import org.jetbrains.annotations.Nullable;
@@ -45,7 +47,6 @@ public class SrimpEntity extends FishEntity {
         return null;
     }
 
-    public static final Activity SWIM = new Activity("swim");
 
     @Override
     public ItemStack getBucketItem() {
