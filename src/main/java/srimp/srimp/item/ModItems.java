@@ -1,8 +1,6 @@
 package srimp.srimp.item;
 
-import net.fabricmc.fabric.api.item.v1.FabricItem;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.minecraft.entity.ai.brain.task.BreezeShootIfStuckTask;
 import net.minecraft.item.*;
 import net.minecraft.item.tooltip.TooltipType;
 import net.minecraft.registry.Registries;
@@ -10,7 +8,6 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import srimp.srimp.Srimp;
-import srimp.srimp.entity.SrimpEntity;
 import srimp.srimp.item.custom.HammerItem;
 import srimp.srimp.item.custom.SrimpItem;
 
